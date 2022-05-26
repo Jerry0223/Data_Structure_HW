@@ -1,0 +1,18 @@
+How many random number do you want to generate?10000
+A:Insertion sort B:Merger sort C: Quick sort D: qsort(c) E: sort(c++) or (0 to exit)
+A
+InsertionSort Time Spend:0.01 S
+A:Insertion sort B:Merger sort C: Quick sort D: qsort(c) E: sort(c++) or (0 to exit)
+B
+MergeSort Time Spend:0.003 S
+A:Insertion sort B:Merger sort C: Quick sort D: qsort(c) E: sort(c++) or (0 to exit)
+C
+QuickSort Time Spend:0 S
+A:Insertion sort B:Merger sort C: Quick sort D: qsort(c) E: sort(c++) or (0 to exit)
+D
+qsort(c) Time Spend:0.001 S
+A:Insertion sort B:Merger sort C: Quick sort D: qsort(c) E: sort(c++) or (0 to exit)
+E
+sort(c++) Time Spend:0 S
+A:Insertion sort B:Merger sort C: Quick sort D: qsort(c) E: sort(c++) or (0 to exit)
+0

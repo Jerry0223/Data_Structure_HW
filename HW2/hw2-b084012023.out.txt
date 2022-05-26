@@ -1,0 +1,55 @@
+3
+abcdef
+cfehi
+h
+Test Case 1:
+A: {abcdef}
+B: {cefhi}
+A+B: {abcdefhi}
+A+C: {abcdef}
+B+C: {cefhi}
+A*B: {cef}
+A*C: {}
+B*C: {}
+A-B: {abd}
+A-C: {abcdef}
+B-A: {hi}
+B-C: {cefhi}
+A does not contain B
+B does not contain A
+3abf4ec
+43
+g
+Test Case 2:
+A: {34abcef}
+B: {34}
+A+B: {34abcef}
+A+C: {34abcef}
+B+C: {34}
+A*B: {34}
+A*C: {}
+B*C: {}
+A-B: {abcef}
+A-C: {34abcef}
+B-A: {}
+B-C: {34}
+A contains B
+B does not contain A
+a%5A wdt
+ 5At
+
+Test Case 3:
+A: { %5Aadtw}
+B: { 5At}
+A+B: { %5Aadtw}
+A+C: { %5Aadtw}
+B+C: { 5At}
+A*B: { 5At}
+A*C: {}
+B*C: {}
+A-B: {%adw}
+A-C: { %5Aadtw}
+B-A: {}
+B-C: { 5At}
+A contains B
+B does not contain A
